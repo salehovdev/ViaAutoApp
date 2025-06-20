@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Rome",
+    "region": "Lazio"
+  },
+  {
+    "city": "Milan",
+    "region": "Lombardy"
+  },
+  {
+    "city": "Naples",
+    "region": "Campania"
+  },
+  {
+    "city": "Turin",
+    "region": "Piedmont"
+  },
+  {
+    "city": "Palermo",
+    "region": "Sicily"
+  },
+  {
+    "city": "Genoa",
+    "region": "Liguria"
+  },
+  {
+    "city": "Bologna",
+    "region": "Emilia-Romagna"
+  },
+  {
+    "city": "Florence",
+    "region": "Tuscany"
+  },
+  {
+    "city": "Bari",
+    "region": "Apulia"
+  },
+  {
+    "city": "Catania",
+    "region": "Sicily"
+  },
+  {
+    "city": "Venice",
+    "region": "Veneto"
+  },
+  {
+    "city": "Verona",
+    "region": "Veneto"
+  },
+  {
+    "city": "Padua",
+    "region": "Veneto"
+  },
+  {
+    "city": "Trieste",
+    "region": "Friuli-Venezia Giulia"
+  },
+  {
+    "city": "Parma",
+    "region": "Emilia-Romagna"
+  }
+]
